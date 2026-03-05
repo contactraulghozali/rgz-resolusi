@@ -2,7 +2,9 @@ rencana konten rgz
 -javascript
 *es6
 *freamwork javascript
--struktur data
+^angular
+^react
 -php
+^laravel
 -interview
 -vlog
