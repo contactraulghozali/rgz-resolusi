@@ -2,3 +2,5 @@ rgz resolusi
 -membuat video
 -membuat diskusi
 -membuat platfom
+-membuat shop
+-membuat kolaborasi
