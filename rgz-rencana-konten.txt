@@ -1,5 +1,7 @@
 rencana konten rgz
 -javascript
+*es6
+*freamwork javascript
 -php
 -interview
 -vlog
