@@ -2,6 +2,7 @@ rencana konten rgz
 -javascript
 *es6
 *freamwork javascript
+-struktur data
 -php
 -interview
 -vlog
