@@ -3,6 +3,7 @@ rencana konten rgz
 *es6
 *freamwork javascript
 ^vue
+^react
 -struktur data
 -php
 ^laravel
